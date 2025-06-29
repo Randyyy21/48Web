@@ -1,0 +1,3 @@
+.button {
+  @apply bg-dreamland-default text-white px-4 py-2 rounded hover:bg-dreamland-dark;
+}
